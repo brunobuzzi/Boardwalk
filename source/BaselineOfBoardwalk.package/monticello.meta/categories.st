@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfBoardwalk!
+SystemOrganization addCategory: #'BaselineOfBoardwalk'!
